@@ -9,7 +9,7 @@ from django.utils import translation
 from django.utils.translation import ugettext as _
 
 class Command(NoArgsCommand):
-	help = 'Sends a reminder mail to every with a negative credit'
+	help = 'Sends a reminder mail to everyone with a negative credit'
 
 	def handle_noargs(self, **options):
 		translation.activate('de')

@@ -428,7 +428,7 @@ msgstr "Beschreibung"
 
 #: templates/cashonly/includes/transaction_list.html:10
 msgctxt "money"
-msgid "amount"
+msgid "Amount"
 msgstr "Betrag"
 
 #~ msgid "Actions"
